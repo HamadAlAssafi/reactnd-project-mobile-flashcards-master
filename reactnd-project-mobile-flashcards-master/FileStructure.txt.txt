@@ -1,0 +1,25 @@
+There's 4 Folders
+1-actions ->>>> contains one file called (index.js) this file only have the action creators
+-----------------------------------
+2-components ->>>>>>>>>> contains Eleven file:
+2.1-(AddCard) It's allows you to add card to (question & answer) to deck
+2.2-(AddDeck) It's allows you to add a brand new deck
+2.3-(CustomButton) It's just a button i make it single compoenet to learvge the compstion concept
+2.4-(DeckList) This component display a list of decks and it's the default screen
+2.5-(DeckPreview) Contains animated text to add the deck 
+2.6-(FlatListComp) It displays the DeckPreview component along with key and title etc...
+2.7-(IndividualDeck) This component displays each deck indiviauly
+2.8-(QuestionFlipper) This component reveal the answer for the user
+2.9-(Quiz) Displays the quiz for certain deck
+2.10-(QuizScore) Displays the correct answers and the wrong one
+2.11-(QuizStatus) Displays how many answer you have answerd and what's the wrong and what's right one
+-------------------------------
+3-reducers ->>>>>>>>>>>>>>>>>> Contains one file called (index) that have the actions 
+-----------------------------------------
+4-utils ->>>>>>>>>>>>>>>>>>>>>> contains four files
+4.1(api) Simple api help me with data
+4.2(colors) I've put all the colors i need because i'm going to use them frequntley
+4.3(deckdata) Have default data to display them in screen as first deck and it's called (ArabicPharases)
+4.4 (helpers) It's used for the notfacitons
+----------------------
+I hope this file is helpful Thank You:).
